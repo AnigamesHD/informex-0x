@@ -4,13 +4,8 @@
 
 __Laboratorio de Bioinformática__
 
-__Profesores:__
-- Fernando Danilo González 
-- Eduardo Castro Nallar
 
-                                                                                             -Nombre: Jocelyn López
-                                                                                             -Carrera: Ingeniería en Biotecnolo
-                                                                                             -Fecha de entrega: 28/07/16
+                                                                
 
 
 ---

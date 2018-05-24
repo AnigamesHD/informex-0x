@@ -1,4 +1,4 @@
-# informex-0x#<strong>Trabajo Práctico Nº6: Visualización de proteinas usando VMD</strong>
+# informex-0x#<strong>Trabajo Práctico: Visualización de proteinas usando VMD</strong>
 
 #BIT120
 
